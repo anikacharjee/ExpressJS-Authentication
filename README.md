@@ -11,7 +11,7 @@ Using Authentication and Authorization in ExpressJS
     "username": "user",
     "password": "password"
     }`
-    - You should receive a "Login successful!" response.
+    - You should receive a *"Login successful!"* response.
 
 2. Access Protected Route:
     - Send a GET request to `http://localhost:3000/dashboard`. You should receive a *"Welcome to the Dashboard, user!"* response.
